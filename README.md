@@ -1,2 +1,1 @@
-# dbPulisher
-Database Development for Publisher Automation
+# Database Development for Publisher Automation
